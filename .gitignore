@@ -42,7 +42,7 @@ data/
 # OUTPUTS
 # ======================
 outputs/
-*.png
+# *.png
 *.jpg
 *.pdf
 
