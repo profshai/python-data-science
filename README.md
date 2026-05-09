@@ -1,6 +1,6 @@
 # Python Data Science Portfolio
 
-![Revenue and Profit by Product Category](figures/revenue_composition.png)
+![Revenue and Profit by Product Category](../figures/revenue_composition.png)
 
 A comprehensive Python data science repository covering the foundations of numerical computing, data manipulation, data cleaning, visualization, and applied analytics using industry standard tools such as NumPy, Pandas, Matplotlib, Seaborn, and Plotly.
 
