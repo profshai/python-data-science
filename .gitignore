@@ -31,7 +31,7 @@ conda-env/
 # DATA
 # ======================
 data/
-*.csv
+# *.csv
 *.xlsx
 *.parquet
 
