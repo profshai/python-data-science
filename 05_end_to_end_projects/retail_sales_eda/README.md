@@ -1,10 +1,8 @@
 # Exploratory Data Analysis Project
 
-## Revenue and Profit by Product Category
+![Revenue and Profit by Product Category](figures/revenue_profit_by_category.png)
 
-![Revenue Composition](figures/revenue_composition.png)
-
-[View Interactive Plot](figures/revenue_composition.html)
+[View Interactive Plot](figures/revenue_profit_by_category.html)
 
 ## Project Overview
 
