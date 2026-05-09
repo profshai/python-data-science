@@ -1,5 +1,11 @@
 # Exploratory Data Analysis Project
 
+## Revenue and Profit by Product Category
+
+![Revenue and Profit by Product Category](figures/revenue_composition.png)
+
+[View Interactive Plot](figures/revenue_composition.html)
+
 ## Project Overview
 
 This project presents a professional exploratory data analysis of a simulated retail sales dataset. The goal is not only to create charts, but also to answer practical business questions that a data analyst would be expected to address at a top company.
