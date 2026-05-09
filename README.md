@@ -2,12 +2,7 @@
 
 A comprehensive Python data science repository covering the foundations of numerical computing, data manipulation, data cleaning, visualization, and applied analytics using industry standard tools such as NumPy, Pandas, Matplotlib, Seaborn, and Plotly.
 
-This repository is designed to demonstrate practical data science skills through hands on notebooks, reproducible workflows, and real world style analysis pipelines.
-
-Future additions will include:
-
-- PySpark and distributed data processing
-- End to end data analysis projects
+This repository is designed to demonstrate practical data science skills through hands on notebooks, reproducible workflows, and end-to-end projects.
 
 NB: SQL integration and Machine learning workflows are in separate repositories.
 
@@ -134,6 +129,15 @@ Simulation based statistical concepts:
 - Statistical intuition
 - Basic inferential concepts
 
+## End to End Projects
+
+### Retail Sales Exploratory Data Analysis
+
+The project uses a simulated retail sales dataset to analyze revenue, profit, customer behavior, product performance, sales channels, returns, discounts, seasonality, and data quality issues.
+
+Tools used: Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly.
+
+
 ---
 
 # Technologies Used
@@ -154,9 +158,8 @@ This repository uses:
 
 This repository is intended to:
 
-- Strengthen core Python data science skills
-- Demonstrate practical analytical workflows
+- Strengthen my core Python data science skills
+- Demonstrate my practical analytical workflows
 - Build a professional data science portfolio
-- Prepare for data analyst and data scientist roles
-- Showcase reproducible notebook based analysis
-- Transition into large scale analytics and machine learning
+- Prepare me for data analyst and data scientist roles
+- Showcase my reproducible notebook based analysis
